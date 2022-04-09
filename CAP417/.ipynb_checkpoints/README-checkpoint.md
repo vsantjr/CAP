@@ -3,7 +3,7 @@
 
 <img src="https://github.com/vsantjr/CAP/blob/master/Images/thedice.jpg" width=58%>
 
-This repository is related to the Computational Statistics [CAP](http://www.inpe.br/posgraduacao/cap/) course at INPE, 2022.
+This repository is related to part of the Computational Statistics [CAP](http://www.inpe.br/posgraduacao/cap/) course at INPE, 2022.
 
 
 ## Contents
