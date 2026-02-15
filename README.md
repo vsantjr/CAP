@@ -1,5 +1,5 @@
 # Programa de Pós-Graduação em Computação Aplicada (CAP/INPE)
- Various files related to CAP courses.ll
+ Various files related to CAP courses.
 
 ## Author
 
